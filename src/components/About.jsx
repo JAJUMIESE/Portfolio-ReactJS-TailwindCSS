@@ -27,7 +27,7 @@ const About = () => {
 						<p>REACT ROUTER</p>
 						<p>SACC</p>
 						<p>FIGMA</p>
-						<p>PHOTOSHOP</p>
+						<p>REACT NATIVE</p>
 					</div>
 				</div>
 				<div className='flex flex-col md:w-1/2 mt-2 md:mt-4 '>
