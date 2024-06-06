@@ -12,13 +12,13 @@ const Contact = () => {
 			<div className='max-w-[800px] mx-auto'>
 				<div className='mt-6 bg-[#161616] rounded-xl'>
 					<div className='p-10'>
-						<form action='#' method='POST'>
+						<form action='https://getform.io/f/lbjkpyra' method='POST'>
 							<div className='grid grid-cols-1 sm:grid-cols-2 gap-x-5 gap-y-4'>
 								<div>
 									<div className='mt-2.5'>
 										<input
 											type='text'
-                                            name='name'
+											name='name'
 											placeholder='Your Name'
 											className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-pink-600'
 										/>
@@ -29,7 +29,7 @@ const Contact = () => {
 									<div className='mt-2.5'>
 										<input
 											type='text'
-                                            name='email'
+											name='email'
 											placeholder='Your Email'
 											className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-[#905dff]'
 										/>
@@ -41,7 +41,7 @@ const Contact = () => {
 										<textarea
 											type='text'
 											placeholder='Your Message'
-                                            name='message'
+											name='message'
 											className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-[#905dff]'
 											rows='4'
 										></textarea>
