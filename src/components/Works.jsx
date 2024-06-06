@@ -5,6 +5,8 @@ import design from '../assets/graph.png'
 import vision from '../assets/vision.png'
 import delivery from '../assets/delivery.png'
 import market from '../assets/market.png'
+import dating from '../assets/dating.png'
+import estate from '../assets/estate.png'
 
 const Works = () => {
   return (
@@ -96,6 +98,36 @@ const Works = () => {
 					<div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
 						<span className='text-xl font-bold text-white tracking-wider'>
 							Delivery food app UI/UX design
+						</span>
+						<div className=''>
+							<a href='https://www.behance.net/gallery/199182087/Delivery-food-app-UIUX-design'>
+								<button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+									Behance
+								</button>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center bg-cover relative'>
+					<img src={dating} alt='work7' />
+					<div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
+						<span className='text-xl font-bold text-white tracking-wider'>
+							Dating app UI/UX design
+						</span>
+						<div className=''>
+							<a href='https://www.behance.net/gallery/199182087/Delivery-food-app-UIUX-design'>
+								<button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+									Behance
+								</button>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center bg-cover relative'>
+					<img src={estate} alt='work8' />
+					<div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
+						<span className='text-xl font-bold text-white tracking-wider'>
+							Real Estate app UI/UX design
 						</span>
 						<div className=''>
 							<a href='https://www.behance.net/gallery/199182087/Delivery-food-app-UIUX-design'>
