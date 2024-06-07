@@ -111,7 +111,7 @@ const Works = () => {
 				<div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center bg-cover relative'>
 					<img src={dating} alt='work7' />
 					<div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-						<span className='text-xl font-bold text-white tracking-wider'>
+						<span className='text-base md:text-xl font-bold text-white tracking-wider'>
 							Dating app UI/UX design
 						</span>
 						<div className=''>
@@ -126,7 +126,7 @@ const Works = () => {
 				<div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center bg-cover relative'>
 					<img src={estate} alt='work8' />
 					<div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-						<span className='text-xl font-bold text-white tracking-wider'>
+						<span className='text-base md:text-xl font-bold text-white tracking-wider'>
 							Real Estate app UI/UX design
 						</span>
 						<div className=''>
