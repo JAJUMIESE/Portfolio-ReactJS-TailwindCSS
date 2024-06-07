@@ -7,8 +7,8 @@ import react from '../assets/react.png'
 
 const Skills = () => {
   return (
-		<div className=' text-gray-400 md:h-[150px] max-w-[1200px] mx-auto grid grid-cols-6 place-items-center md:flex md:justify-between md:items-center pr-2'>
-			<h2 className='text-gray-700 text-2xl md:text-4xl font-bold m-4 '>
+		<div className=' text-gray-400 md:h-[150px] max-w-[1200px] mx-auto grid grid-cols-5 place-items-center md:flex md:justify-between md:items-center pr-2'>
+			<h2 className='hidden text-gray-700 text-xl md:text-4xl font-bold m-4 '>
 				My <br /> Tech <br /> Stack
 			</h2>
 

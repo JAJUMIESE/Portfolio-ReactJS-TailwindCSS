@@ -21,7 +21,7 @@ const Works = () => {
 				<div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center bg-cover relative'>
 					<img src={hoobank} alt='work1' />
 					<div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-						<span className='text-xl font-bold text-white tracking-wider'>
+						<span className='text-base md:text-xl font-bold text-white tracking-wider'>
 							Responsive Modern Bank
 						</span>
 						<div className=''>
@@ -36,7 +36,7 @@ const Works = () => {
 				<div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center bg-cover relative'>
 					<img src={redcur} alt='work2' />
 					<div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-						<span className='text-xl font-bold text-white tracking-wider'>
+						<span className='text-base md:text-xl font-bold text-white tracking-wider'>
 							Parallax Landing
 						</span>
 						<div className=''>
@@ -51,7 +51,7 @@ const Works = () => {
 				<div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center bg-cover relative'>
 					<img src={vision} alt='work3' />
 					<div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-						<span className='text-xl font-bold text-white tracking-wider'>
+						<span className='text-base md:text-xl font-bold text-white tracking-wider'>
 							Vision Creo
 						</span>
 						<div className=''>
@@ -66,7 +66,7 @@ const Works = () => {
 				<div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center bg-cover relative'>
 					<img src={design} alt='work4' />
 					<div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-						<span className='text-xl font-bold text-white tracking-wider'>
+						<span className='text-base md:text-xl font-bold text-white tracking-wider'>
 							Graph & UI/UX Design
 						</span>
 						<div className=''>
@@ -81,7 +81,7 @@ const Works = () => {
 				<div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center bg-cover relative'>
 					<img src={market} alt='work5' />
 					<div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-						<span className='text-xl font-bold text-white tracking-wider'>
+						<span className='text-base md:text-xl font-bold text-white tracking-wider'>
 							Online shopping app UI/UX design
 						</span>
 						<div className=''>
@@ -96,7 +96,7 @@ const Works = () => {
 				<div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center bg-cover relative'>
 					<img src={delivery} alt='work6' />
 					<div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-						<span className='text-xl font-bold text-white tracking-wider'>
+						<span className='text-base md:text-xl font-bold text-white tracking-wider'>
 							Delivery food app UI/UX design
 						</span>
 						<div className=''>
