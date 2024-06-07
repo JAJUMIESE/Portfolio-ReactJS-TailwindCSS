@@ -2,10 +2,8 @@ import React from 'react'
 
 const About = () => {
   return (
-		<div
-			className='text-white max-w-[1200px] mx-auto md:flex px-4 mt-8 md:my-16 gap-8'
+		<div className='text-white max-w-[1200px] mx-auto md:flex px-4 mt-8 md:my-16 gap-8'
 			id='about'
-		>
 			<div className='flex flex-col md:w-1/2 gap-3 md:gap-7 mb-5'>
 				<div className='flex flex-col '>
 					<div className='text-[#905dff] text-4xl md:text-5xl  font-extrabold'>
