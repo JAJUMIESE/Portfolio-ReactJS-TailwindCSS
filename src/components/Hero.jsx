@@ -35,7 +35,7 @@ const Hero = () => {
 
 				<div className='my-8'>
 					<a
-						href='/'
+						href='#contact'
 						className='px-6 py-3 w-full rounded-xl mr-4 bg-[#905dff] text-white'
 					>
 						Salam

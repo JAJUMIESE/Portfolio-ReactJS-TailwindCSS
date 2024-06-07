@@ -3,10 +3,10 @@ import React from 'react'
 const About = () => {
   return (
 		<div
-			className='text-white max-w-[1200px] mx-auto md:flex px-4 my-12 md:my-20 gap-8'
+			className='text-white max-w-[1200px] mx-auto md:flex px-4 my-8 md:my-20 gap-8'
 			id='about'
 		>
-			<div className='flex flex-col md:w-1/2 gap-4 mb-4'>
+			<div className='flex flex-col md:w-1/2 gap-2 md:gap-7 mb-4'>
 				<div className='flex flex-col '>
 					<div className='text-[#905dff] text-4xl md:text-5xl  font-extrabold'>
 						Education
@@ -24,7 +24,7 @@ const About = () => {
 					<div className='grid grid-cols-3 text-nowrap font-semibold mt-2 md:mt-4 '>
 						<p>GITHUB</p>
 						<p>DOCKER</p>
-						<p>REACT ROUTER</p>
+						<p>REDUX</p>
 						<p>SACC</p>
 						<p>FIGMA</p>
 						<p>REACT NATIVE</p>
@@ -55,6 +55,11 @@ const About = () => {
 					<h2 className='text-2xl font-medium'>Graphic Designer</h2>
 					<p className='text-gray-400'>MOST</p>
 					<p className=''>2023</p>
+				</div>
+				<div className='mt-4'>
+					<h2 className='text-2xl font-medium'>Frontend developer</h2>
+					<p className='text-gray-400'>SITIM</p>
+					<p className=''>2024</p>
 				</div>
 			</div>
 		</div>
