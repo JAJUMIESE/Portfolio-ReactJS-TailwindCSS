@@ -28,9 +28,10 @@ const Hero = () => {
 				</h1>
 
 				<p className='text-white sm:text-lg my-6 lg:text-xl'>
-					I am a beginner frontend developer with immense motivation and
-					initiative. I have the necessary skills and competencies, as well as a
-					readiness for constant self-improvement and learning new technologies.
+					Я начинающий frontend-разработчик с огромной мотивацией и инициативой,
+					обладающий необходимыми навыками и опытом руководства проектами,
+					готовый к постоянному самосовершенствованию и внесению значимого
+					вклада в развитие продукта.
 				</p>
 
 				<div className='my-8'>
