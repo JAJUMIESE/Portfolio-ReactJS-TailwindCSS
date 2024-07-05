@@ -5,7 +5,7 @@ const Contact = () => {
 		<div className='max-w-[1200px] mx-auto sm:py-20 p-5' id='contact'>
 			<div className='text-center'>
 				<h2 className='text-4xl md:text-5xl leading-tight font-extrabold text-[#905dff]'>
-					Contact Me
+					Связаться со мной
 				</h2>
 			</div>
 
@@ -19,7 +19,7 @@ const Contact = () => {
 										<input
 											type='text'
 											name='name'
-											placeholder='Your Name'
+											placeholder='Введите имя'
 											className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-pink-600'
 										/>
 									</div>
@@ -30,7 +30,7 @@ const Contact = () => {
 										<input
 											type='text'
 											name='email'
-											placeholder='Your Email'
+											placeholder='Введите почту'
 											className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-[#905dff]'
 										/>
 									</div>
@@ -40,7 +40,7 @@ const Contact = () => {
 									<div className='mt-2.5'>
 										<textarea
 											type='text'
-											placeholder='Your Message'
+											placeholder='Сообщение'
 											name='message'
 											className='bg-[#161616] w-full px-4 py-4 text-gray-400 placeholder-gray-400 border border-gray-700 rounded-md focus:outline-none focus:border-[#905dff]'
 											rows='4'
@@ -53,7 +53,7 @@ const Contact = () => {
 										type='submit'
 										className='text-xl w-full p-4 mt-2 font-semibold text-white bg-[#905dff] rounded-md'
 									>
-										Send
+										Отправить
 									</button>
 								</div>
 							</div>

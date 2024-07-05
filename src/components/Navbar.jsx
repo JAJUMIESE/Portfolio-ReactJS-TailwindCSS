@@ -13,13 +13,13 @@ const Navbar = () => {
 			<h1 className='text-3xl font-bold text-[#905dff] ml-4'>INSIDE CEO</h1>
 			<ul className='hidden md:flex '>
 				<li className='p-5 hover:text-gray-300'>
-					<a href='#about'>About</a>
+					<a href='#about'>О себе</a>
 				</li>
 				<li className='p-5 hover:text-gray-300'>
-					<a href='#works'>Works</a>
+					<a href='#works'>Работы</a>
 				</li>
 				<li className='p-5 hover:text-gray-300'>
-					<a href='#contact'>Contact</a>
+					<a href='#contact'>Контакты</a>
 				</li>
 			</ul>
 
@@ -37,13 +37,13 @@ const Navbar = () => {
 				<h1 className='text-3xl text-[#905dff] m-4'>Responsive</h1>
 				<ul className='p-8 text-2xl'>
 					<li className='p-2'>
-						<a href='#about'>About</a>
+						<a href='#about'>О себе</a>
 					</li>
 					<li className='p-2'>
-						<a href='#works'>Works</a>
+						<a href='#works'>Работы</a>
 					</li>
 					<li className='p-2'>
-						<a href='#contact'>Contact</a>
+						<a href='#contact'>Контакты</a>
 					</li>
 				</ul>
 			</div>
