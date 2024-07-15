@@ -16,7 +16,9 @@ const Works = () => {
 				<p className='text-4xl md:text-5xl mb-2 font-extrabold text-[#905dff]'>
 					Работы
 				</p>
-				<p className='text-white'>Портфолио в виде проектов на GitHub и Behance</p>
+				<p className='text-white'>
+					Портфолио в виде проектов на GitHub и Behance
+				</p>
 			</div>
 			<div className='grid sm:grid-cols-2 gap-4'>
 				<div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center bg-cover relative'>
@@ -56,9 +58,9 @@ const Works = () => {
 							Naletu food delivery
 						</span>
 						<div className=''>
-							<a href='https://github.com/JAJUMIESE/naletu-food-delivery'>
+							<a href='https://naletu.vercel.app/'>
 								<button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-									GitHub
+									Link
 								</button>
 							</a>
 						</div>
